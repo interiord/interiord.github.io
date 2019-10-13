@@ -13,21 +13,62 @@
 	
 }
 
-.mycontainer-2{
-	background-size:auto;
-}
-.mycontainer-2 .content {
-  position: absolute; /* Position the background text */
-  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
-  padding: 20px; /* Some padding */
+.margg{
+	margin-top: 2%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D80508;
+	border-radius: 10px;
+	padding: 10px 100px;
 }
 
 .myborder{
 	border-width: thick;
 	border-radius: 10px;
 	border-color: #000000;
+}
+.abcc
+{
+	padding: 0px 0px !important;
+}
+
+.container-fluid .content {
+  position: absolute;
+  top: 6%;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+.bwkf{
+	background-color: #C7BFBF;
+	padding:10px 10px;
+	margin-top: 30px;
+	margin: 2%;
+	border-radius: 10px;
+}
+.abtinf
+{
+	width: auto;
+	padding: 20px;
+}
+
+.myfooter{
+	background-color: forestgreen!important;
+}
+.linkks a
+{
+	color: red;
+}
+
+.linkks a:hover
+{
+	color: black;
+}
+
+.linkks p
+{
+	text-align: justify;
+	text-justify: auto;
 }
