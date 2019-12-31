@@ -1,13 +1,20 @@
 	/*
   	Flaticon icon font: Flaticon
+<<<<<<< HEAD
   	Creation date: 01/03/2019 00:45
+=======
+  	Creation date: 17/01/2018 04:05
+>>>>>>> 0dd78af8550e8cdaf5663fa803e70bb92dbd4d31
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+<<<<<<< HEAD
        url("./Flaticon.woff2") format("woff2"),
+=======
+>>>>>>> 0dd78af8550e8cdaf5663fa803e70bb92dbd4d31
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -25,6 +32,7 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
+<<<<<<< HEAD
 font-style: normal;
 /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -37,3 +45,16 @@ font-style: normal;
 .flaticon-interior-design:before { content: "\f103"; }
 .flaticon-sit-down:before { content: "\f104"; }
 .flaticon-turned-off:before { content: "\f105"; }
+=======
+  font-style: normal;
+}
+
+.flaticon-worker:before { content: "\f100"; }
+.flaticon-architect-with-helmet:before { content: "\f101"; }
+.flaticon-sketch:before { content: "\f102"; }
+.flaticon-conveyor:before { content: "\f103"; }
+.flaticon-skyline:before { content: "\f104"; }
+.flaticon-crane:before { content: "\f105"; }
+.flaticon-engineering:before { content: "\f106"; }
+.flaticon-engineer:before { content: "\f107"; }
+>>>>>>> 0dd78af8550e8cdaf5663fa803e70bb92dbd4d31
